@@ -1,6 +1,6 @@
 # README #
 
-Submission for Hulu's recruitment test by pbolar@andrew.cmu.edu
+Attempts to solve iterative hangman games using strategies described by [DataGenetics](http://www.datagenetics.com/blog/april12012/).
 
 ## Setup ##
 ```mvn package```
